@@ -6,3 +6,4 @@
  ![Image Alt](https://github.com/coulava/Laporna-Pratikum-OOP/blob/4feeedae0fdef9cd2540b231dc4c9f9f46927ed2/Screenshot%202026-02-04%20092458.png)
  ![Image Alt](https://github.com/coulava/Laporna-Pratikum-OOP/blob/95da79486d03c035e8a9dea328e0f0f3ecd224cc/Screenshot%202026-02-04%20092415.png)
  ![Image Alt](https://github.com/coulava/Laporna-Pratikum-OOP/blob/651753ddcea4374fab7fc17db216a89d92979863/Screenshot%202026-02-04%20092406.png)
+![Image Alt](https://github.com/coulava/Laporna-Pratikum-OOP/blob/5b6c423ddc62a568209d9ed5882b715603540465/Screenshot%202026-02-04%20092357.png)
